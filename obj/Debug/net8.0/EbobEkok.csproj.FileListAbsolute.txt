@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\bin\Debug\net8.0\EbobEkok.exe
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\bin\Debug\net8.0\EbobEkok.deps.json
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\bin\Debug\net8.0\EbobEkok.runtimeconfig.json
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\bin\Debug\net8.0\EbobEkok.dll
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\bin\Debug\net8.0\EbobEkok.pdb
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\obj\Debug\net8.0\EbobEkok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\obj\Debug\net8.0\EbobEkok.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\obj\Debug\net8.0\EbobEkok.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\obj\Debug\net8.0\EbobEkok.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\obj\Debug\net8.0\EbobEkok.dll
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\obj\Debug\net8.0\refint\EbobEkok.dll
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\obj\Debug\net8.0\EbobEkok.pdb
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\obj\Debug\net8.0\EbobEkok.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\mOds\EbobEkok\obj\Debug\net8.0\ref\EbobEkok.dll
